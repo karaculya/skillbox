@@ -1,0 +1,5 @@
+capuccino    200
+espresso    100
+water    50
+milk  75
+latte   250
